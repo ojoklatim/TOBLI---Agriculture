@@ -1,0 +1,6 @@
+{
+  "name": "TOBLI Agriculture",
+  "description": "A Luganda-first digital agriculture companion for Ugandan farmers. Features crop disease photo diagnosis, free-form AI chat, live market prices dashboard, planting calendar, and weather forecasts.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
